@@ -10,7 +10,7 @@ MANY THANKS TO [Lusk]-hlynge FOR THIS GREAT BRIDGES MOD!
 
 *******************************************************
 
-Spawns extra ways to get to the top of the Keep at Krona Castle ( 1412.38 / 9207.20 ) including rope bridges, external stairs and a hiGH-wire, on Chernarus.
+Spawns extra ways to get to the top of the Keep at Krona Castle ( 1412.38 / 9207.20 ) including rope bridges, external stairs and a high-wire, on Chernarus.
 
 These extra access points have been added to ballance the endgame of Queen / King of the Castle events, where the ultimate aim to win is to
 hold the top of the Keep at Krona Castle when the timer runs out. The extra access points take away some of the advantage that a team gets by
